@@ -1,0 +1,11 @@
+ListView = 0
+Command = 1
+Check = 2
+Text = 3
+Combo = 4
+Option = 5
+List = 6
+Image = 7
+Tab = 8
+
+Form Type Number Index

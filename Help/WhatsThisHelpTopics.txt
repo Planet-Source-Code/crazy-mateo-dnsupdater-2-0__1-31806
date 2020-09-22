@@ -1,0 +1,275 @@
+.topic TabStrip01
+Displays The Appropriate Tab
+
+.topic ListView01
+Displays The Status Of The Program And Any Events That Occur
+
+.topic Command0(0)1
+Update The Specified Service
+
+.topic Command0(1)1
+Synchronize Your Database With The Online Master Database
+
+.topic Command0(2)1
+Display The Help File
+
+.topic Command0(3)1
+Hide This Program To The System Tray
+
+.topic Command0(4)1
+Quit From The Program
+
+.topic Check1(0)1
+Run The Program On Windows Start
+
+.topic Check1(1)1
+Start The Program Hidden To The System Tray On Start
+
+.topic Check1(2)1
+Run The Program Specified When A New IP Is Detected
+
+.topic Check1(3)1
+Close The Programs Entered When The Program Quits Or The Internet COnnection Is Lost
+
+.topic Check1(4)1
+Animate The System Tray Icon On Events
+
+.topic Check1(5)1
+Tell The Program To Use One Of The LAN Connect Methods
+
+.topic Check1(6)1
+Play Sounds On Events
+
+.topic Check1(7)1
+Log Any Data Passed To The Status Window
+
+.topic Check1(8)1
+Quit The Program Once A Succesful Update Has Occurred
+
+.topic Check1(9)1
+Retry On A Failed Update Attempt
+
+.topic Check1(10)1
+Automatically Update The Service When A New IP Is Detected
+
+.topic Check1(11)1
+Automatically Synchronize Your Database With The Online Master Database
+
+.topic Text1(0)1
+Amount Of Time The Program Waits On New IP Before Updating
+
+.topic Text1(1)1
+Amount Of Time Waited Between Retries On A Failed Update
+
+.topic Text1(2)1
+How Often The Program Checks For A New IP
+
+.topic Text1(3)1
+Number Of Times To Retry An Update
+
+.topic Text1(4)1
+Your Services Provided User Name
+
+.topic Text1(5)1
+Your Services Provided Password
+
+.topic Combo1(0)1
+Service To Use When Updating
+
+.topic Combo1(1)1
+Default IP To Use If LAN Connect Is Not Checked
+
+.topic Combo21
+Router To Use When Trying To Get Your External IP
+
+.topic Text2(0)1
+Your Router Password
+
+.topic Text2(1)1
+IP Address Of Your Router
+
+.topic Text2(2)1
+Port Of Your Routers Web Based Interface
+
+.topic Text2(3)1
+HTTP Page To Get Your External IP
+
+.topic Text2(4)1
+Word To Start For The External IP At
+
+.topic Text2(5)1
+IRC Server To Get Your External IP
+
+.topic Text2(6)1
+Port To Connect To On The IRC Server
+
+.topic Text2(7)1
+Nick Name To Use When Connecting To The IRC Server
+
+.topic Text2(8)1
+Full Name To Use When Connecting To The IRC Server
+
+.topic Text2(9)1
+Proxy To Use For HTTP Pages
+
+.topic Option2(0)1
+Get External IP Using Your Router
+
+.topic Option2(1)1
+Get External IP Using An IRC Server
+
+.topic Option2(2)1
+Get External IP Using An HTTP Page
+
+.topic Command3(0)1
+Add A New Router
+
+.topic Command3(1)1
+Delete The Router
+
+.topic Command3(2)1
+Edit The Selected Router
+
+.topic List31
+Displays A List Of Routers
+
+.topic ListView31
+Displays A List Of The Selected Routers Settings
+
+.topic Command4(0)1
+Add A New Service
+
+.topic Command4(1)1
+Delete The Selected Service
+
+.topic Command4(2)1
+Edit The Selected Serverice
+
+.topic Command4(3)1
+Add A New Field
+
+.topic Command4(4)1
+Delete The Selected Field
+
+.topic Command4(5)1
+Edit The Selected Field
+
+.topic List41
+Displays A List Of Services
+
+.topic Text4(0)1
+Address Of The Services HTTP Update Page
+
+.topic Text4(1)1
+Word Returned On Successful Service Update
+
+.topic ListView41
+Displays A List Of Fields To Pass To The Service Update Page
+
+.topic Option5(0)1
+Change To Modify Pictures
+
+.topic Option5(1)1
+Change To Modify Sounds
+
+.topic Combo51
+Selects The Picture/Sound To Modify
+
+.topic Text5(0)1
+Change The Target Of The Selected File
+
+.topic Text5(1)1
+Change The Log File
+
+.topic Image5(0)1
+Browse For A File Target
+
+.topic Image5(1)1
+Browse For A Log File
+
+.topic Command5(0)1
+Add A New Program
+
+.topic Command5(1)1
+Delete The Selected Program
+
+.topic Command5(2)1
+Edit The Select Program
+
+.topic ListView51
+Displays A List Of Programs
+
+.topic Text0(0)2
+Router Name
+
+.topic Text0(1)2
+Address To Log In To Router
+
+.topic Text0(2)2
+Address To Log Out Of Router
+
+.topic Text0(3)2
+Router Status Page Where External IP Is Located
+
+.topic Text0(4)2
+Word To Start Looking For External IP At
+
+.topic Text1(0)2
+Property Name
+
+.topic Text1(1)2
+Property Value
+
+.topic Text2(0)2
+Service Name
+
+.topic Text2(1)2
+Word Returned On Successful Service Update
+
+.topic Text2(2)2
+Address Of The Services HTTP Update Page
+
+.topic ListView22
+Displays A List OF Temp Fields
+
+.topic Text3(0)2
+Change A Program Name
+
+.topic Text3(1)2
+Change A Program Target
+
+.topic Image32
+Browse For A Program
+
+.topic Command00(0)2
+Save Router Changes
+
+.topic Command00(1)2
+Save Property Changes
+
+.topic Command00(2)2
+Save Service Changes
+
+.topic Command00(3)2
+Save Program Changes
+
+.topic Command01(0)2
+Cancel Router Changes
+
+.topic Command01(1)2
+Cancel Property Changes
+
+.topic Command01(2)2
+Cancel Service Changes
+
+.topic Command01(3)2
+Cancel Program Changes
+
+.topic Command2(0)2
+Add A New Temp Field
+
+.topic Command2(1)2
+Delete The Selected Temp Field
+
+.topic Command2(2)2
+Edit The Selected Temp Field
